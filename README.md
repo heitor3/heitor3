@@ -11,6 +11,7 @@ I'm Heitor, a passionate developer with a love for React Native and TypeScript, 
 
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" align="center"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=282c34" alt="React" align="center"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" align="center"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" align="center"/>
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" align="center"/>
@@ -18,9 +19,10 @@ I'm Heitor, a passionate developer with a love for React Native and TypeScript, 
 
 ### About Me
 
-I'm a developer who's truly passionate about crafting mobile experiences using React Native and diving into the world of TypeScript. Currently, I'm exploring the possibilities of .NET, driven by a curiosity to expand my technical horizons.
+I'm a developer who's truly passionate about crafting mobile experiences using React Native and diving into the world of TypeScript. Lately, I've been delving into the world of .NET as well, as I find it to be an incredible technology.
 
 ### Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitor-fernandes-0b7406198/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitor-pires-0b7406198/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/heitor_fer/)
+
