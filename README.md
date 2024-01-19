@@ -11,7 +11,7 @@ I'm Heitor, a passionate developer with a love for React Native and TypeScript, 
 
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" align="center"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=282c34" alt="React" align="center"/>
+  <img src="https://img.shields.io/badge/React-282c34?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=282c34" alt="React" align="center"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" align="center"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" align="center"/>
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" align="center"/>
