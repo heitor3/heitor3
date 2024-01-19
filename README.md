@@ -19,7 +19,7 @@ I'm Heitor, a passionate developer with a love for React Native and TypeScript, 
 
 ### About Me
 
-I'm a developer who's truly passionate about crafting mobile experiences using React Native and diving into the world of TypeScript. Lately, I've been delving into the world of .NET as well, as I find it to be an incredible technology.
+I'm a passionate developer dedicated to crafting engaging mobile experiences with React Native and delving into the intricacies of TypeScript. Recently, I've embarked on a journey to explore the world of .NET, recognizing its incredible technological potential. While I believe it holds the promise of bringing immense joy similar to React Native, my current focus on .NET is driven more by curiosity than necessity.
 
 ### Connect with Me
 
